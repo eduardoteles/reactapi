@@ -1,0 +1,40 @@
+{
+    "chat": [
+        {
+            "id": 1,
+            "createdDate": "2023-10-01T12:00:00Z",
+            "text": "Hello, how are you?",
+            "sender": 
+                {
+                    "id": 1,
+                    "name": "Alice",
+                    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaBJsvhB9uNRXbwnd5kBReTmaGKi9dciJzog&s"
+                },
+            "receiver": 
+                {
+                    "id": 2,
+                    "name": "Eduardo",
+                    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ24V7unnd4CbxMa3N5LOuMoeyX8FXwxpqCQ&s"
+                }
+        },
+        {
+            "id": 2,
+            "createdDate": "2023-10-01T12:01:00Z",
+            "text": "I am fine!",
+            "sender": 
+                {
+                    "id": 2,
+                    "name": "Eduardo",
+                    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ24V7unnd4CbxMa3N5LOuMoeyX8FXwxpqCQ&s"
+                }
+            ,
+            "receiver": 
+                {
+                    "id": 1,
+                    "name": "Alice",
+                    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaBJsvhB9uNRXbwnd5kBReTmaGKi9dciJzog&s"
+                }
+            
+        }
+    ]
+}
